@@ -1,0 +1,6 @@
+# requirements.txt content for deploying the Educational AI Assistant app
+
+streamlit
+llama-cpp-python
+requests
+tqdm
